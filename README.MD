@@ -14,6 +14,16 @@ Esta documentação descreve as rotas e métodos disponíveis na API para gerenc
 
 documentação da api 
 
+## link de acesso para o projeto 
+
+https://master.d2uz4858i8z92y.amplifyapp.com/
+
+
+## seriviços utilizados da Aws
+- Lambda
+- dy DB
+- Amplify
+- API Gateway
 
 ## Importar clientes 
 
