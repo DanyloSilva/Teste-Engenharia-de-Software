@@ -8,7 +8,7 @@
 6. [x] Documentar os métodos e funções criadas
 
 
-# Documentação da API - YOLO
+# Documentação da API 
 
 Esta documentação descreve as rotas e métodos disponíveis na API para gerenciar os clientes.
 
